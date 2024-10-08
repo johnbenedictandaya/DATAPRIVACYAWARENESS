@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'lora';
+}
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid;
+    background: linear-gradient(#376a6a, #567470, #689d94);
+}
+h1{
+    font-family: 'Poppins';
+    font-optical-sizing: auto;
+    font-weight: bold 900;
+    font-style: normal;
+}
+h3{
+    font-family: 'lora';
+    font-optical-sizing: auto;
+    font-weight: bold 400;
+    font-style: normal;
+}
